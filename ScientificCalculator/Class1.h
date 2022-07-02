@@ -1,0 +1,14 @@
+//
+// Created by Mihai Simion on 27/12/2021.
+//
+
+#ifndef SCIENTIFICCALCULATOR_CLASS1_H
+#define SCIENTIFICCALCULATOR_CLASS1_H
+
+
+class Class1 {
+
+};
+
+
+#endif //SCIENTIFICCALCULATOR_CLASS1_H
